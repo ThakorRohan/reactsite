@@ -1,0 +1,48 @@
+@font-face { font-family: 'TeXGyreAdventor-Regular'; font-style: normal; font-weight: normal; src: url('./assets/fonts/texgyreadventor-regular-webfont.woff'), url('./assets/fonts/texgyreadventor-regular-webfont.woff') format('woff'); }
+@font-face { font-family: 'TeXGyreAdventor-Italic'; font-style: normal; font-weight: normal; src: url('./assets/fonts/texgyreadventor-italic-webfont.woff'), url('./assets/fonts/texgyreadventor-italic-webfont.woff') format('woff'); }
+@font-face { font-family: 'TeXGyreAdventor-Bold'; font-style: normal; font-weight: normal; src: url('./assets/fonts/texgyreadventor-bold-webfont.woff'), url('./assets/fonts/texgyreadventor-bold-webfont.woff') format('woff'); }
+@font-face { font-family: 'TeXGyreAdventor-BoldItalic'; font-style: normal; font-weight: normal; src: url('./assets/fonts/texgyreadventor-bolditalic-webfont.woff'), url('./assets/fonts/texgyreadventor-bolditalic-webfont.woff') format('woff'); }
+
+
+/* @import 'assets/css/ionicons.min.css'; */
+/* Bootstrap import */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+/* Font-awesome import */
+@import "~@fortawesome/fontawesome-free/css/all.min.css";
+
+/* Animate css import */
+@import "~animate.css/animate.min.css";
+
+/* Swiper css import */
+/* @import "assets/css/swiper.css"; */
+
+/* WOW css import */
+@import "assets/css/wow.css";
+
+/* Slick-theme css import */
+@import "assets/css/slick.css";
+
+/* Slick-theme css import */
+
+/* Owl carousal css import */
+@import "~owl.carousel/dist/assets/owl.carousel.css";
+@import "~owl.carousel/dist/assets/owl.theme.default.css";
+
+@import 'assets/css/font-awesome.min.css';
+@import 'assets/css/typicon.min.css';
+/* @import 'assets/css/ionicons.min.css'; */
+
+
+/* Custom css file import */
+@import 'assets/css/typography.css';
+@import 'assets/css/qloud-style.css';
+@import "assets/css/responsive.css";
+
+
+@import "~magnific-popup/dist/magnific-popup.css";
+
+ @import "assets/revslider/css/rs6.css";
+
+
+
